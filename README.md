@@ -1,0 +1,2 @@
+# pythofriends
+c++ and python
